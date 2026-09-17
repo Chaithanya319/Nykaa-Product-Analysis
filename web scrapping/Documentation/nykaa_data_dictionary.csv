@@ -1,0 +1,15 @@
+Column_Name,Description,Data_Type
+Product_Name,Name of the product listed on Nykaa,Text
+Brand,Brand associated with the product,Text
+Category,"Main project category: Healthcare, Beauty, or Baby",Text
+MRP,Maximum Retail Price of the product in ₹,Numeric
+Selling_Price,Current selling price of the product in ₹,Numeric
+Discount_Percent,Percentage discount calculated from MRP and Selling Price,Numeric
+Rating,Average customer rating of the product,Numeric
+Rating_Count,Number of customer ratings received by the product,Numeric
+Review_Count,Number of written customer reviews,Numeric
+Pack_Size,Product pack size or quantity,Text
+In_Stock,Indicates whether the product is currently in stock,Boolean
+Product_URL,URL of the product page on Nykaa,Text/URL
+Scraped_Date,Date on which the product data was collected,Date
+Price_Range,Selling price grouped into predefined price ranges,Categorical

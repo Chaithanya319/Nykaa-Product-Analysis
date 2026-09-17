@@ -1,0 +1,9 @@
+Step,Cleaning_Process,Purpose
+1,Removed duplicate product URLs,Avoid duplicate product records
+2,Removed duplicate Product Name + Brand combinations for product-level analysis,Prevent repeated product variants from affecting analysis
+3,Converted MRP and Selling Price into numeric values,Enable price calculations and statistical analysis
+4,"Converted Rating, Rating Count and Review Count into numeric values",Enable rating and customer engagement analysis
+5,Calculated Discount Percentage from MRP and Selling Price,Measure discount levels consistently
+6,Converted stock information into True/False values,Make stock information easier to analyze
+7,Removed records missing essential product information,Improve dataset quality and reliability
+8,Created Price Range categories for analysis,Enable price-range comparison
